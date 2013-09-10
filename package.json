@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/gocardless-client/ng-auth-service.git"
+    "url": "git://github.com/gocardless-ng/ng-auth-service.git"
   },
   "bugs": {
-    "url": "http://github.com/gocardless-client/ng-auth-service/issues"
+    "url": "http://github.com/gocardless-ng/ng-auth-service/issues"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
